@@ -10,4 +10,4 @@
 <img width="80%" src="https://user-images.githubusercontent.com/81947384/180703640-c83089ac-35b7-49c7-9016-7ed95a9159bd.png"/>
 
 #### Drawing 3
-<img width="80%" src="https://user-images.githubusercontent.com/81947384/180703640-c83089ac-35b7-49c7-9016-7ed95a9159bd.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/81947384/180703896-7ad2dc4d-f9c6-4a70-bc10-c7a10855a53d.png"/>
